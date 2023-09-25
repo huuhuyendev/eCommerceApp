@@ -1,0 +1,1 @@
+import 'package:ecommerceapp/consts/consts.dart';const socialIconList = [icFacebookLogo, icGoogleLogo, icTwitterLogo];
