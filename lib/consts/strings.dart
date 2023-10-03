@@ -17,13 +17,11 @@ const privacyPolicy = "Privacy Policy";
 const termsAndConditions = "Terms and Conditions";
 const alreadyHaveAccount = "Already have an account? ";
 
-
 //Home String
 const home = "Home",
     categories = "Categories",
     cart = "Cart",
     account = "Account";
-
 
 //Home Screen String
 const searchAnything = "Search anything...",
@@ -32,4 +30,11 @@ const searchAnything = "Search anything...",
     topSellers = "Top Sellers",
     brand = "Brand",
     topCategories = "Top Categories",
+    womenDress = "Womment Dress",
+    girlsWatches = "Girls Watches",
+    mobilePhones = "Mobile Phones",
+    boysGlasses = "Boys Glasses",
+    tShirts = "T-Shirts",
+    girlsDress = "Girls Dresses",
+    featuredProducts = "Featured Products",
     featuredCategories = "Featured Categories";

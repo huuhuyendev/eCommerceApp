@@ -5,6 +5,7 @@ import 'package:get/get_navigation/src/root/get_material_app.dart';
 
 void main() {
   runApp(const MyApp());
+  print('App is running');
 }
 
 class MyApp extends StatelessWidget {
@@ -13,7 +14,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-      title: appName,
+      title: appName, 
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         scaffoldBackgroundColor: Colors.transparent,
