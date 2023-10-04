@@ -160,6 +160,7 @@ class HomeScreen extends StatelessWidget {
                               children: List.generate(
                                   6,
                                   (index) => Column(
+                                    crossAxisAlignment: CrossAxisAlignment.start,
                                         children: [
                                           Image.asset(
                                             imgP1,
@@ -245,6 +246,7 @@ class HomeScreen extends StatelessWidget {
                               .fontFamily(semibold)
                               .color(redColor)
                               .make(),
+                          10.heightBox,
                         ],
                       )
                           .box

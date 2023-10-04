@@ -30,7 +30,7 @@ const searchAnything = "Search anything...",
     topSellers = "Top Sellers",
     brand = "Brand",
     topCategories = "Top Categories",
-    womenDress = "Womment Dress",
+    womenDress = "Women Dress",
     girlsWatches = "Girls Watches",
     mobilePhones = "Mobile Phones",
     boysGlasses = "Boys Glasses",
@@ -38,3 +38,22 @@ const searchAnything = "Search anything...",
     girlsDress = "Girls Dresses",
     featuredProducts = "Featured Products",
     featuredCategories = "Featured Categories";
+
+// Category Screen String
+const womenClothing = "Women Clothing",
+    menClothingFashion = "Men Clothing & Fashion",
+    compAccess = "Computer & Office",
+    automobile = "Automobile",
+    kidToys = "Kid's Toys",
+    sport = "Sport & Outdoor",
+    jewelery = "Jewelery",
+    cellphone = "Cellphones & Accessories",
+    furniture = "Furniture";
+
+// item details string
+const video = "Video",
+    reviews = "Reviews",
+    sellerPolicy = "Seller Policy",
+    returnPolicy = "Return Policy",
+    productsYouMayLike = "Products you may like",
+    support = "Support";
